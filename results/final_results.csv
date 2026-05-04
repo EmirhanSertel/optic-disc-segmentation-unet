@@ -1,0 +1,7 @@
+Metric,Without_TTA,With_TTA
+Loss,0.1033,0.0654
+Accuracy,99.66%,99.72%
+IoU,0.8342,0.8482
+Dice,0.8994,0.9108
+Precision,0.9349,0.9503
+Recall,0.8878,0.8906
